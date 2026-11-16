@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+artifacts/
+.computer_use_gui.json

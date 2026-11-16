@@ -1,0 +1,651 @@
+
+===== PAGE 1 =====
+Research Methodology in CS Unit I Worksheet
+Research Methodology in Computer
+Science
+UNIT I WORKSHEET
+Introduction to Research Problem
+Research
+Problem Scope Objectives Data Interpret
+& Act
+Course: CSEG3060 | Unit: I | Lecture Allocation: 9 Hours
+Designed as an active-learning revision and practice worksheet.
+Name: Roll No.:
+Section: Date:
+How to use this worksheet
+This worksheet is meant to move you from“I know the definitions”to“I can formulate and defend
+a research problem.”Work through the activities in order. Use your own Computer Science topic
+whenever a question asks you to design or formulate something.
+Unit I Coverage Checklist
+□Meaning and significance of research
+□Objectives of research
+□Key elements of research
+□Sources of research problems
+□Identification of research problems
+□Good research problem criteria
+□Common selection errors
+□Avoiding selection errors
+□Scope and boundaries
+□Research objectives
+□SMART objectives
+□Research approaches
+□Theoretical vs. empirical research
+□Data types and sources
+□Data collection tools
+□Data collection guidelines
+□Data analysis
+□Interpretation of results
+□Research instrumentation
+□Calibration and repeatability
+□Integrated case-based application
+1 of 20
+
+===== PAGE 2 =====
+Research Methodology in CS Unit I Worksheet
+1 Part A — Research: What, Why and How?
+A1. Research in one sentence
+Research is asystematic and scientific investigationused to discover new facts, verify existing
+knowledge, analyze relationships, explain phenomena, and answer questions using evidence.
+Key elements from class:
+Problem Identification→Data Collection & Analysis→Hypothesis Formation→Result Interpretation
+Activity 1: Build the research chain
+Put the following in a sensible order:
+Result Interpretation Problem Identification Data Collection/Analysis Hypothesis Formation
+Why is this order useful in a CS research project?[2 marks]
+Activity 2: Why does research matter?
+Give one CS example for each:
+Technology/knowledge ad-
+vancement
+Industrial innovation
+Academic growth
+Policy or societal decision-
+making
+Computer Science example
+(AI/algorithms/HCI/etc.)
+Activity 3: Research objectives
+Complete the table.
+Objective of research Your CS example
+Find answers using scientific methods
+Explain phenomena / establish relationships
+Test or validate an existing theory
+Think like a researcher
+A student says:“I want to build an AI app because AI is trending.”Is this already a research
+problem? Explain what is missing.
+2 of 20
+
+===== PAGE 3 =====
+Research Methodology in CS Unit I Worksheet
+2 Part B — Types and Approaches of Research
+Research approaches covered in Unit I
+Exploratory
+discover patterns/ideas
+Descriptive
+describe facts/characteristics
+Analytical
+analyze information
+Theoretical
+models, logic, proofs
+Empirical
+observation/experiment
+The class material also introducedfundamentalandappliedresearch as broad research types.
+Choose the approach according to the research question and the kind of evidence required.
+Activity 4: Match the approach
+Write E (Exploratory), D (Descriptive), A (Analytical), T (Theoretical), or EM (Empirical).
+1. Investigating an emerging problem where very little is known:
+2. Measuring average response time of five search algorithms:
+3. Developing a formal model for a new computational system:
+4. Summarizing user characteristics from a usability survey:
+5. Comparing existing datasets and identifying relationships among variables:
+Activity 5: Theoretical or empirical?
+For each scenario, decide the dominant approach and justify it in one sentence.
+Scenario Type Why?
+Prove a property of an algorithm
+mathematically
+Benchmark an intrusion-detection
+model on a dataset
+Develop a formal model of a dis-
+tributed protocol
+Interview developers to discover pain-
+points in an emerging tool
+3 of 20
+
+===== PAGE 4 =====
+Research Methodology in CS Unit I Worksheet
+3 Part C — Finding and Formulating a Research Problem
+C1. Where do research problems come from?
+Important sources highlighted in class include:
+•Literature reviews and research gaps.
+•Industrial problems and real-world needs.
+•Emerging trends and technologies.
+•Academic coursework and past projects.
+•Surveys of recent publications.
+•Patent and research databases.
+•Industry white papers.
+•Competitive research proposals.
+Activity 6: Research-problem detective
+Pick a CS domain:
+Listfour possible sourcesfrom which a research problem in this domain could emerge:
+1.
+2.
+3.
+4.
+C2. Identification workflow
+1. Explore
+domain broadly
+2. Narrow
+through reading
+3. Formulate
+question(s)
+4. Validate
+feasibility + novelty
+Activity 7: Apply the four-step workflow
+Topic/domain:
+1. Explore broadly:What is the larger area?
+2. Narrow through reading:What specific sub-area or pain-point interests you?
+3. Formulate question(s):Write one research question.
+4. Validate:What would you check for feasibility and novelty?
+4 of 20
+
+===== PAGE 5 =====
+Research Methodology in CS Unit I Worksheet
+Quick Pair Challenge: Problem or Topic?
+Classify each statement asTopic,Weak Problem, orResearch Problem.
+1. “Artificial Intelligence in Smart Cities.”
+2. “AI is interesting.”
+3. “How can reinforcement learning optimize traffic signals in smart cities?”
+4. “Cybersecurity.”
+5. Your own statement:
+C3. Characteristics of a good research problem
+A strong problem should beclear and concise, researchable and feasible, relevant and original,
+and should offer scope fordata collection and analysis. The syllabus also emphasizes essential attributes
+and avoiding errors in selection.[5 marks]
+Criterion Evidence that YOUR problem satisfies it
+Clear and concise
+Researchable
+Feasible
+Relevant
+Original / non-trivial
+Allows data collec-
+tion and analysis
+5 of 20
+
+===== PAGE 6 =====
+Research Methodology in CS Unit I Worksheet
+4 Part D — What Can Go Wrong? Scope and Boundaries
+Common errors in selecting a research problem
+1. Ambiguity / vagueness
+The problem does not clearly state what is being
+investigated.
+2. Too broad
+The study becomes unrealistic or unmanageable.
+3. Too narrow
+There may be insufficient room for meaningful
+investigation.
+4. Lack of relevance
+The problem has weak academic, practical, or
+societal value.
+5. Lack of feasibility
+Resources, data, skills, time, or infrastructure are
+unavailable.
+6. Ignoring prior art
+Existing research may already answer the ques-
+tion.
+Activity 8: Error clinic
+For each weak problem, identify the main error and rewrite it.
+1. “Improve AI everywhere.”
+Error:
+Improved version:
+2. “Study all cybersecurity threats affecting every organization worldwide.”
+Error:
+Improved version:
+3. “Build a system that detects every possible disease with 100% accuracy in two days.”
+Error:
+Improved version:
+How to avoid selection errors
+•Perform a literature review.
+•Consult experts or guides.
+•Conduct pilot studies where appropriate.
+•Align the problem with objectives and available resources.
+D2. Scope = the boundary of your research
+Scope defines thelimits and boundariesof the study and prevents deviation from the objectives. Typical
+boundaries include:
+Time frame Geographic
+location
+Target population
+or dataset
+Tools /
+technologies
+Activity 9: Draw the boundary
+Research problem:“How can machine learning improve network intrusion detection?”
+Fill in realistic boundaries:
+6 of 20
+
+===== PAGE 7 =====
+Research Methodology in CS Unit I Worksheet
+Time frame
+Geographic / de-
+ployment context
+Target dataset /
+population
+Tools / algorithms
+What is explicitly
+OUT of scope?
+Activity 10: Scope test
+A student’s project is titled“AI for Smart Cities.”Give three reasons why this scope is likely too broad,
+then convert it into a narrower study.
+7 of 20
+
+===== PAGE 8 =====
+Research Methodology in CS Unit I Worksheet
+5 Part E — Research Objectives and SMART Thinking
+E1. Why objectives matter
+Research objectives:
+•set the direction and purpose of research;
+•help define scope and methodology; and
+•provide focus and coherence.
+A good objective is not just an activity such as “study AI.” It stateswhat will be achieved or
+evaluated.
+S M A R T
+Specific
+clear and precise
+Measurable
+can be evaluated
+Achievable
+realistic
+Relevant
+aligned
+Time-bound
+within timeframe
+Activity 11: SMART objective laboratory
+Research topic/problem:
+Write one objective, then audit it.
+Specific What exactly will be done?
+Measurable What variable, metric, or evidence will show achievement?
+Achievable Why is it realistic with available resources?
+Relevant How does it address the research problem?
+Time-bound By when / over what period?
+Final SMART objective:
+Peer Review — 60-second test
+Exchange your objective with a partner. Your partner must answer:
+1. Can I identify exactly what is being investigated?
+2. Can I identify how success will be measured?
+3. Is the target realistic?
+4. Does it directly connect to the problem?
+5. Is a time boundary visible?
+Partner’s one improvement suggestion:
+8 of 20
+
+===== PAGE 9 =====
+Research Methodology in CS Unit I Worksheet
+6 Part F — Data Fundamentals
+F1. Two useful ways to classify data
+DATA
+Primary
+collected directly
+Secondary
+existing sources
+Qualitative
+narratives / meanings
+Quantitative
+numerical values
+Examples discussed in class include primary interviews, sensor readings, and usage logs; secondary
+GitHub/Kaggle datasets, IEEE articles, and government data.
+Activity 12: Classify the data
+Mark each as Primary/Secondary and Qualitative/Quantitative where applicable.
+Data source Primary/Secondary Qualitative/Quantitative
+Interview transcripts
+Sensor temperature readings
+Kaggle dataset downloaded for analysis
+System CPU utilization logs collected during
+your experiment
+User comments about usability
+IEEE article used as an existing source
+F2. Choosing data
+For your own research problem:
+1. What data do you need?
+2. Why is this data appropriate?
+3. Primary, secondary, or a combination?
+4. Qualitative, quantitative, or a combination?
+9 of 20
+
+===== PAGE 10 =====
+Research Methodology in CS Unit I Worksheet
+7 Part G — Data Collection Tools and Guidelines
+G1. Match the tool to the evidence
+The class material highlighted:
+•Questionnaires / online forms— structured responses from participants.
+•Observation logs / experiments— record observed behavior or experimental events.
+•System monitoring tools— capture system/network performance.
+•Web scraping— collect information from web sources using appropriate tools.
+Examples shown in the class material include Google Forms, Typeform, Wireshark, PerfMon,
+BeautifulSoup, and Selenium.
+Activity 13: Tool selection game
+You need to collect the following evidence. Select the most suitable tool and justify.
+Evidence required Tool / method Why?
+Students’ satisfaction with an app
+Network packet behavior during an ex-
+periment
+CPU/memory usage of a program
+Behavior of users interacting with a pro-
+totype
+Public web data needed for a study
+Activity 14: Design a mini data-collection instrument
+Choose one:□questionnaire□observation log□experiment log□system-monitoring plan.
+Research problem:
+What will be mea-
+sured/recorded?
+Who/what is the
+source?
+When/how often?
+What tool will be
+used?
+How will consis-
+tency be main-
+tained?
+10 of 20
+
+===== PAGE 11 =====
+Research Methodology in CS Unit I Worksheet
+8 Part H — From Data to Meaning: Analysis and Interpretation
+H1. Do not confuse these stages
+Collect
+raw evidence
+Analyze
+organize/compare
+Interpret
+explain meaning
+Conclude
+answer problem
+Analysisasks: “What patterns, differences, relationships, or measurements are in the data?”
+Interpretationasks: “What do those findings mean for my research problem and objectives?”
+Activity 15: Read the result, then interpret it
+Suppose an experiment gives:
+Model Accuracy Inference time (ms)
+A 92% 20
+B 95% 70
+C 94% 25
+1. Which model has the highest accuracy?
+2. Which model is fastest?
+3. If the system is real-time and accuracy must be at least 93%, which model would you investigate first?
+Why?
+4. Is “B is best” a valid conclusion without considering the research objective? Explain.
+Activity 16: Interpretation vs. description
+Complete each sentence with eitherdescriptionorinterpretation.
+1. “Model B achieved 95% accuracy.”
+2. “The higher accuracy may be useful when accuracy is the primary objective, but its latency may limit
+real-time deployment.”
+3. “The system processed 10,000 requests.”
+4. “The observed throughput suggests the system can support the target workload.”
+Researcher’s caution
+A graph can show a pattern, but a pattern is not automatically an explanation. Write one question
+you would ask before claimingwhya result occurred.
+11 of 20
+
+===== PAGE 12 =====
+Research Methodology in CS Unit I Worksheet
+9 Part I — Research Instrumentation
+I1. Instrumentation in computing research
+Research instrumentation refers to thetools, hardware, and software used for data collection
+and analysis. Class examples include:
+•sensors;
+•simulators;
+•benchmarking suites;
+•custom tools for robotics, networks, and AI.
+Two important quality ideas emphasized in the class material arecalibrationandrepeatability.
+Activity 17: Instrument selection matrix
+For your chosen research problem, identify one instrument at each level.
+Level Possible instrument What evidence will it produce?
+Hardware / sensor
+Software / simula-
+tor
+Benchmark / mea-
+surement tool
+Custom tool (if
+needed)
+Activity 18: Calibration and repeatability
+Why should a sensor, measurement setup, benchmark, or custom instrument be calibrated?
+What could happen if the same experiment cannot be repeated consistently?
+12 of 20
+
+===== PAGE 13 =====
+Research Methodology in CS Unit I Worksheet
+10 Part J — The Research Problem Builder
+Your 10-minute research design
+Choose a real Computer Science problem you care about. Complete every box.
+Step 1 — Domain
+Step 2 — Real-world pain-point
+Step 3 — Research problem statement
+Step 4 — Research question
+Step 5 — Why is it worth investigating?
+Step 6 — Research approach
+□Exploratory □Descriptive □Analytical □Theoretical □Empirical □Fundamental
+□Applied
+Step 7 — Scope boundaries
+Time: Dataset/population:
+Tools/technology: Out of scope:
+Step 8 — Three SMART objectives
+O1:
+O2:
+O3:
+Step 9 — Data plan
+Data type(s): Source(s):
+Collection tool(s): Instrumentation:
+Step 10 — Analysis and interpretation
+What will you measure/analyze? How will the findings answer the research question?
+13 of 20
+
+===== PAGE 14 =====
+Research Methodology in CS Unit I Worksheet
+11 Part K — Case Study: AI in Smart Cities
+Case Study — Refine the vague idea
+A student wants to research:
+“Artificial Intelligence in Smart Cities.”
+Your task is to transform this broad idea into a defensible Unit I research design.
+K1. Narrow the problem
+Broad area:AI + Smart Cities
+Chooseonespecificapplication: □traffic □waste □energy □water □safety □other:
+Specific pain-point:
+Refined research problem:
+K2. Define the approach
+Dominant approach:
+Why is it theoretical, empirical, exploratory, descriptive, analytical, or a combination?
+K3. Three SMART objectives
+1.
+2.
+3.
+K4. Boundaries
+Timeframe
+Target dataset /
+population
+Geographic/deployment
+context
+Tools/technologies
+Out of scope
+14 of 20
+
+===== PAGE 15 =====
+Research Methodology in CS Unit I Worksheet
+12 Part L — Case-Based Thinking
+Case 1: “Build a better chatbot”
+A student proposes:“I will make a chatbot that is better than ChatGPT.”
+Identify at leastfourproblems with this research proposal at the Unit I level.
+1.
+2.
+3.
+4.
+Rewrite it as a focused research problem:
+Case 2: Sensor-based smart agriculture
+A team wants to predict irrigation needs using soil-moisture sensors.
+Identify:
+1. One possible research problem.
+2. Two data sources.
+3. One primary data source.
+4. One secondary data source.
+5. One data-collection tool.
+6. One research instrument.
+7. One measurable objective.
+8. One scope boundary.
+Case 3: The “perfect accuracy” trap
+A researcher claims:“My model is successful because it gives 99.9% accuracy.”
+Write three questions you would ask before accepting the claim:
+1.
+2.
+3.
+13 Part M — Unit I Rapid-Fire Quiz
+Choose the best answer.
+15 of 20
+
+===== PAGE 16 =====
+Research Methodology in CS Unit I Worksheet
+1. A research problem should primarily be:
+(a) fashionable
+(b) clear and researchable
+(c) extremely broad
+(d) impossible to test
+2. Which is a source of research problems?
+(a) literature gaps
+(b) random guessing only
+(c) avoiding prior work
+(d) unrelated facts
+3. “Measure the average latency of Algorithm X on Dataset Y within four weeks” is closest to:
+(a) vague topic
+(b) SMART objective
+(c) literature review
+(d) research instrument
+4. Existing data from Kaggle is generally:
+(a) primary
+(b) secondary
+(c) always qualitative
+(d) always experimental
+5. “User comments about usability” are primarily:
+(a) qualitative
+(b) quantitative
+(c) hardware
+(d) benchmark
+6. Which is most directly related to system monitoring?
+(a) PerfMon
+(b) title page
+(c) patent claim
+(d) abstract
+7. A study based mainly on observation and experiments is:
+(a) empirical
+(b) purely theoretical
+(c) descriptive writing
+(d) scope definition
+8. Which is NOT a good scope boundary?
+(a) dataset
+(b) timeframe
+(c) tools
+(d) “everything”
+9. Interpretation primarily asks:
+(a) What does the result mean?
+(b) What font was used?
+(c) Who printed the report?
+(d) What is the page number?
+10. Calibration and repeatability are especially important for:
+16 of 20
+
+===== PAGE 17 =====
+Research Methodology in CS Unit I Worksheet
+(a) research instrumentation
+(b) research titles
+(c) roll numbers
+(d) acknowledgements
+Rapid-fire: One-word / one-line
+1. Define research in your own words:
+2. One difference between a topic and a research problem:
+3. One source of a research problem:
+4. One common selection error:
+5. Expand SMART:
+6. One primary-data example in CS:
+7. One secondary-data example in CS:
+8. One data collection tool:
+9. One research instrument:
+10. Difference between analysis and interpretation:
+17 of 20
+
+===== PAGE 18 =====
+Research Methodology in CS Unit I Worksheet
+14 Part N — Connect the Dots
+Match Column A with Column B.
+A Concept B Meaning / Example
+1 Exploratory A Collected directly
+2 Primary data B Clear, measurable, realistic, relevant, time-
+bound
+3 Scope C Discover patterns / new ideas
+4 SMART D Limits and boundaries of a study
+5 Empirical E Observation / experiment based
+6 Instrumentation F Tools/hardware/software for collection and
+analysis
+7 Secondary data G Existing datasets/articles/logs
+8 Interpretation H Explain what findings mean for the problem
+Answers: 1- , 2- , 3- , 4- , 5- , 6- , 7- , 8- .
+15 Part O — Viva / Oral Defense Practice
+Imagine your teacher asks:“Defend your research problem in 60 seconds.”
+Use the structure:
+Problem
+What is wrong?
+Gap
+What is missing?
+Objective
+What will you do?
+Evidence
+How will you know?
+Your 60-second defense notes:
+Problem: Gap: Objective: Evidence/data:
+18 of 20
+
+===== PAGE 19 =====
+Research Methodology in CS Unit I Worksheet
+16 Part P — Unit I Master Check
+Can I do it without looking at the PPT?
+Rate yourself honestly:1 = not yet, 2 = partly, 3 = confidently.
+Skill 1 2 3
+Explain what research is and why it matters
+Identify the key elements of research
+Generate sources of research problems
+Distinguish a topic from a research problem
+Evaluate a research problem using quality criteria
+Identify common selection errors
+Define scope and boundaries
+Write SMART objectives
+Choose an appropriate research approach
+Distinguish theoretical and empirical research
+Classify primary/secondary data
+Classify qualitative/quantitative data
+Select a suitable collection tool
+Explain analysis vs interpretation
+Select suitable research instrumentation
+Explain why calibration and repeatability matter
+My one-minute takeaway
+The most important idea I learned in Unit I is:
+The concept I still need to revise is:
+One research problem I can now formulate is:
+Exit Ticket: Researcher Mindset
+Complete the sentence:
+“A good researcher does not start by asking ; a good researcher first asks
+.”
+Explain your answer in one or two lines:
+19 of 20
+
+===== PAGE 20 =====
+Research Methodology in CS Unit I Worksheet
+Unit I in one visual
+Research
+Problem
+Sources +
+Identification
+Good Problem +
+Error Check
+Scope +
+Boundaries
+SMART
+Objectives
+Data +
+Collection
+Analysis +
+Interpretation
+Instrumentation +
+Repeatability
+End of Unit I Worksheet — Introduction to Research Problem
+20 of 20

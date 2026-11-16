@@ -1,0 +1,1095 @@
+
+===== PAGE 50 =====
+RESEARCH METHODOLOGY IN COMPUTER SCIENCE
+WORKSHEET – UNIT III
+Literature Search, Analysis, References & Ethics
+Literature Search and Academic Sources
+Databases→Search Strategies→Literature Analysis→Synthesis→Mapping
+Academic Integrity and Research Ethics
+References→Citation→Plagiarism→Data Privacy→Ethical Research
+Name:
+Roll No.:
+Section:
+Date:
+School of Computer Science, UPES
+Dr. Ayush Kumar Agrawal
+
+===== PAGE 51 =====
+Research Methodology in CS Worksheet – Unit III
+UNIT III – WORKSHEET MAPLiterature Search, Analysis & Ethics
+LEARN & REMEMBER
+This unit develops the practical skills required to move from a research question to a reliable body of
+literature and then use that literature ethically.
+The major learning areas are:
+•Literature search and academic sources
+•Research databases and search strategies
+•Keywords and Boolean operators
+•Citation chaining and search alerts
+•Critical reading of research papers
+•Literature analysis and synthesis
+•Literature mapping and research trends
+•References and citation management
+•Plagiarism and effective paraphrasing
+•Research ethics, data privacy and authorship
+•IRB and ethical approval
+No. Learning Area Done Confidence
+1 Literature Search□
+2 Sources of Literature□
+3 Literature Review□
+4 Databases□
+5 Search Strategies□
+6 Citation Chaining□
+7 Literature Analysis□
+8 Literature Synthesis□
+9 Literature Mapping□
+10 References and Citations□
+11 Plagiarism and Paraphrasing□
+12 Research Ethics□
+13 Data Privacy and IRB□
+14 Authorship and Publication Ethics□
+WARM-UPStart Thinking Like a Researcher
+School of Computer Science, UPES | Page 2 of 40
+
+===== PAGE 52 =====
+Research Methodology in CS Worksheet – Unit III
+PRACTICE ZONE
+Think about your final-year project, research interest, or a topic you would like to investigate.
+1. Where would you search for related work?
+2. Would you use Google, Wikipedia, IEEE Xplore, ACM DL or something else?
+3. How would you decide whether a paper is reliable?
+My research topic:
+Where I would search first:
+Why?
+School of Computer Science, UPES | Page 3 of 40
+
+===== PAGE 53 =====
+Research Methodology in CS Worksheet – Unit III
+1. LITERATURE SEARCHBuilding the Research Foundation
+1.1 What is Literature Search?
+Literature search is the systematic process of finding existing research related to a research problem,
+question, method, technology, or domain.
+It is much more than simply typing a topic into a search engine.
+A good literature search helps the researcher discover:
+•what is already known,
+•what methods have already been used,
+•which datasets and benchmarks are available,
+•what results have already been achieved,
+•where researchers disagree, and
+•what questions remain unanswered.
+LEARN & REMEMBER
+Research does not start with “What can I build?”
+It should first ask:
+What has already been done, what is missing, and what can I contribute?
+1.2 Why Literature Search Matters
+Literature search:
+1. helps avoid unnecessary duplication;
+2. supports the novelty of a research problem;
+3. identifies useful tools, datasets and benchmarks;
+4. provides background for the research problem;
+5. helps formulate research questions;
+6. provides evidence for the proposed methodology;
+7. identifies gaps and unresolved issues.
+THINK LIKE A RESEARCHER
+Suppose a student proposes:
+“I will develop a CNN model for plant disease detection.”
+What should the student search before starting the work?
+School of Computer Science, UPES | Page 4 of 40
+
+===== PAGE 54 =====
+Research Methodology in CS Worksheet – Unit III
+2. SOURCES OF LITERATUREAcademic vs. Casual Information
+2.1 Primary and Secondary Sources
+Source Type Examples
+Primary Sources Original journal papers, conference papers, patents, technical reports
+Secondary Sources Review papers, survey papers, books
+Digital Libraries IEEE Xplore, ACM Digital Library, SpringerLink, ScienceDirect
+Indexing Databases Scopus, Web of Science
+Preprint Sources arXiv and other research repositories
+Search Engines Google Scholar and general web search
+2.2 Academic Source vs. Casual Source
+Consider the following:
+Casual Search Academic Search
+Blogs Journal papers
+News articles Conference papers
+YouTube videos Technical reports
+Wikipedia Patents
+Random websites Peer-reviewed literature
+COMMON TRAP
+Blogs, videos and Wikipedia may be useful for learning a concept, but they should not automatically be
+treated as equivalent to peer-reviewed research evidence.
+2.3 Mini Case Study
+A student wants to research:
+Blockchain for Supply Chain
+The student first searches the general web and finds blogs and news articles.
+After searching IEEE Xplore and other academic databases, the student finds research discussing scala-
+bility, energy consumption and security.
+THINK LIKE A RESEARCHER
+What changed between the two searches?
+School of Computer Science, UPES | Page 5 of 40
+
+===== PAGE 55 =====
+Research Methodology in CS Worksheet – Unit III
+3. LITERATURE REVIEWFrom Papers to Understanding
+3.1 Objectives of a Literature Review
+A literature review should not become a list of paper summaries.
+It should:
+•summarize current knowledge,
+•compare methods and results,
+•identify research gaps,
+•highlight contradictions or debates,
+•establish the theoretical and methodological foundation of the study.
+LEARN & REMEMBER
+Weak literature review:
+“Paper A did this. Paper B did this. Paper C did this.”
+Stronger literature review:
+“Most studies use machine learning for intrusion detection; however, real-time deployment remains
+insufficiently explored because of computational and scalability constraints.”
+3.2 Literature Search Process
+Define Research
+Question
+Select
+Database
+Keywords &
+Synonyms
+Boolean
+Search
+Screen
+Results
+Record
+References
+Analyse &
+Group Themes
+PRACTICE ZONE
+Write the correct order for your own literature search.
+Research Question:
+Database:
+Keywords:
+Search String:
+How will I screen the papers?
+School of Computer Science, UPES | Page 6 of 40
+
+===== PAGE 56 =====
+Research Methodology in CS Worksheet – Unit III
+4. RESEARCH DATABASESFinding Reliable Literature
+4.1 Why Use Academic Databases?
+Academic databases provide structured access to scholarly research.
+They commonly support:
+•author searching,
+•year filtering,
+•keyword searching,
+•subject filtering,
+•citation tracking,
+•full-text access,
+•export of citation information.
+4.2 Major Databases in Computer Science
+Database Typical Coverage
+IEEE Xplore Computer science, electronics, AI, IoT, robotics, communications
+ACM Digital Library Computing, algorithms, software, HCI
+SpringerLink Computer science, engineering and interdisciplinary research
+ScienceDirect Broad scientific and engineering literature
+Scopus Abstracting, indexing and citation analysis
+Web of Science Indexing and citation analysis
+arXiv Preprints in AI, ML, mathematics and related areas
+Google Scholar Broad academic search with less filtering
+PRACTICE ZONE
+For each topic, select a suitable database.
+1. Robotics and automation:
+2. Algorithms and software:
+3. AI and machine learning:
+4. Citation analysis:
+School of Computer Science, UPES | Page 7 of 40
+
+===== PAGE 57 =====
+Research Methodology in CS Worksheet – Unit III
+5. KEYWORD SELECTIONSearch with Precision
+5.1 What Makes a Good Keyword?
+A good keyword should be:
+•technically relevant,
+•specific to the research problem,
+•commonly used in the field,
+•supported by synonyms or alternative terminology.
+5.2 Example
+Research topic:
+AI in Cybersecurity
+Possible keywords:
+Artificial Intelligence
+Machine Learning
+Intrusion Detection
+Malware Detection
+Deep Learning
+LEARN & REMEMBER
+A useful technique is to inspect the keywords used in good papers that you have already found. Those
+keywords can then be used to expand your search.
+PRACTICE ZONE
+Develop keywords for:
+Topic: Drone Applications in Agriculture
+Keyword 1
+Keyword 2
+Keyword 3
+Synonym
+Related term
+5.3 Search Vocabulary
+Think beyond one word.
+For example:
+IoT Security
+may be expanded into:
+IoT|Internet of Things|IoT Security|Network Security|Cybersecurity
+School of Computer Science, UPES | Page 8 of 40
+
+===== PAGE 58 =====
+Research Methodology in CS Worksheet – Unit III
+6. BOOLEAN SEARCHAND, OR, NOT and Advanced Search
+6.1 Boolean Operators
+Operator Purpose Example
+AND Narrows the search AI AND Healthcare
+OR Broadens the search IoT OR “Internet of Things”
+NOT Excludes a term Cloud NOT Gaming
+“ ” Searches an exact phrase “deep reinforcement learning”
+* Wildcard / word variation comput*
+6.2 Understanding the Difference
+Suppose the researcher searches:
+AI
+The result may be very broad.
+Now:
+AI AN D Healthcare
+becomes more focused.
+Now:
+(Artificial Intelligence OR Machine Learning)AN D(Healthcare OR Medical Diagnosis)
+captures multiple related terms.
+PRACTICE ZONE
+Create a Boolean search string for:
+Machine Learning for Crop Disease Detection
+Your search string:
+School of Computer Science, UPES | Page 9 of 40
+
+===== PAGE 59 =====
+Research Methodology in CS Worksheet – Unit III
+7. SEARCH STRATEGYSearch, Screen, Record
+7.1 Screening Search Results
+Do not download every result.
+First examine:
+1. Title
+2. Abstract
+3. Keywords
+4. Publication year
+5. Venue
+6. Relevance to your research question
+Only then decide whether the full paper deserves detailed reading.
+COMMON TRAP
+A common mistake is downloading hundreds of papers and reading none of them carefully. Quality of
+analysis is more important than the number of PDFs collected.
+7.2 Search Record
+Maintain a simple search record.
+Date Database Search Query Results / Notes
+7.3 Common Search Mistakes
+•Using only one or two keywords.
+•Relying only on general web search.
+•Ignoring Boolean operators.
+•Not recording search strategies.
+•Skipping abstracts.
+•Collecting too many irrelevant papers.
+School of Computer Science, UPES | Page 10 of 40
+
+===== PAGE 60 =====
+Research Methodology in CS Worksheet – Unit III
+8. CITATION CHAININGFinding Connected Research
+8.1 Backward Citation Chaining
+Backward chaining means examining the references of an existing paper.
+It answers:
+Which earlier studies influenced this paper?
+8.2 Forward Citation Chaining
+Forward chaining means finding newer papers that cite the selected paper.
+It answers:
+What research came after this work?
+Selected
+Paper
+Earlier
+Research
+Later
+Research
+Backward Forward
+PRACTICE ZONE
+You find one highly relevant paper.
+1. Where will you look for older foundational studies?
+2. Where will you look for newer developments?
+Answer:
+8.3 Search Alerts
+Many databases allow researchers to create alerts for:
+•new papers containing selected keywords,
+•new publications by an author,
+•new citations of a paper,
+•new research in a particular topic.
+THINK LIKE A RESEARCHER
+If your research project lasts six months, how could search alerts help you?
+School of Computer Science, UPES | Page 11 of 40
+
+===== PAGE 61 =====
+Research Methodology in CS Worksheet – Unit III
+9. CRITICAL READING OF A RESEARCH PAPERRead Beyond the Abstract
+9.1 Why Critical Reading?
+Collecting papers is not enough.
+Critical reading helps determine:
+•whether the study actually addresses your problem,
+•whether the methodology is appropriate,
+•whether the dataset is suitable,
+•whether the results support the claims,
+•what limitations remain.
+9.2 Paper Reading Sequence
+Section Questions to Ask
+Abstract What problem and contribution are presented?
+Introduction Why is the problem important? What research question is addressed?
+Methodology What algorithm, dataset or experimental design is used?
+Results What evidence is presented? What are the performance measures?
+Discussion What do the results actually mean?
+Limitations What did the authors not solve?
+References Which earlier studies are important?
+9.3 Paper Analysis Sheet
+Research Problem
+Research Question
+Method / Algorithm
+Dataset / Experimental
+Setup
+Main Result
+Performance Metric
+Limitation
+Future Scope
+School of Computer Science, UPES | Page 12 of 40
+
+===== PAGE 62 =====
+Research Methodology in CS Worksheet – Unit III
+10. LITERATURE ANALYSISEvaluate Individual Studies
+10.1 Analysis vs. Summary
+A summary tells what a paper contains.
+Analysis examines:
+•strengths,
+•weaknesses,
+•methods,
+•datasets,
+•results,
+•assumptions,
+•limitations.
+LEARN & REMEMBER
+Summary:
+“Paper A uses SVM for intrusion detection.”
+Analysis:
+“Paper A uses SVM with the KDD Cup 99 dataset and achieves 92% accuracy. The method is compu-
+tationally simple, but the dataset may not represent modern network traffic.”
+10.2 Comparative Analysis
+Consider three studies:
+Paper A Paper B Paper C
+Method SVM Deep Learning Hybrid
+Dataset KDD Cup 99 NSL-KDD NSL-KDD
+Accuracy 92% 96% High
+Complexity Low Medium High
+Scalability Good Moderate Limited
+THINK LIKE A RESEARCHER
+Which method would you investigate further if:
+1. accuracy is the main concern?
+2. computational cost is the main concern?
+3. real-time deployment is the main concern?
+Explain your reasoning.
+School of Computer Science, UPES | Page 13 of 40
+
+===== PAGE 63 =====
+Research Methodology in CS Worksheet – Unit III
+11. LITERATURE SYNTHESISFrom Individual Papers to the Field
+11.1 What is Synthesis?
+Analysisbreaks individual studies into components.
+Synthesiscombines findings across multiple studies to understand the larger research landscape.
+Paper A Paper B Paper C
+Integrated
+Finding
+11.2 Techniques for Literature Synthesis
+Technique Purpose
+Thematic Synthesis Group studies around common themes
+Methodological Com-
+parison
+Compare algorithms, datasets and experimental approaches
+Chronological Review Show how research has evolved over time
+Conceptual Mapping Connect major concepts and relationships
+Systematic Review Use a structured process to identify and synthesize literature
+11.3 Finding the Research Gap
+Possible research gaps may appear when:
+•studies produce contradictory findings,
+•datasets are outdated,
+•real-world validation is missing,
+•scalability is ignored,
+•cost or computational limitations are ignored,
+•ethical aspects are not considered,
+•a method works in theory but not in practical deployment.
+School of Computer Science, UPES | Page 14 of 40
+
+===== PAGE 64 =====
+Research Methodology in CS Worksheet – Unit III
+PRACTICE ZONE
+From the three papers discussed earlier, complete:
+What has been solved?
+What remains unsolved?
+Possible research gap:
+School of Computer Science, UPES | Page 15 of 40
+
+===== PAGE 65 =====
+Research Methodology in CS Worksheet – Unit III
+12. LITERATURE MAPPINGSeeing the Big Picture
+12.1 What is Literature Mapping?
+Literature mapping is the process of systematically or visually organizing research papers to identify:
+•themes,
+•clusters,
+•influential studies,
+•relationships between topics,
+•research trends,
+•research gaps.
+12.2 Why Map Literature?
+When a researcher has 30, 50 or 100 papers, a simple list becomes difficult to understand.
+A map helps answer:
+What are the major themes?
+Which papers are connected?
+How has the topic evolved?
+Where is the research gap?
+12.3 Types of Literature Mapping
+Mapping Type Description
+Thematic Group papers according to recurring themes
+Chronological Organize research according to time
+Methodological Compare methods such as ML, DL, SVM, CNN, etc.
+Citation Track citation relationships and influential papers
+Conceptual Connect concepts using diagrams or mind maps
+School of Computer Science, UPES | Page 16 of 40
+
+===== PAGE 66 =====
+Research Methodology in CS Worksheet – Unit III
+13. LITERATURE MAPPING EXAMPLEIoT Security
+Consider the evolution of research on IoT security:
+2010–2014
+Classical
+Encryption
+2015–2018
+ML-based
+Intrusion Detection
+2019–2023
+Blockchain &
+Federated Learning
+This type of mapping can reveal a shift from classical security methods towards AI-based and decentral-
+ized approaches.
+13.1 Mapping Tools
+Tool Use
+VOSviewer Keyword, co-occurrence and citation maps
+CiteSpace Citation networks and research trends
+Connected Papers Exploring related research papers
+XMind / MindMeister Manual thematic mapping
+Spreadsheets Simple manual literature organization
+CLASSROOM ACTIVITY
+Mapping Activity
+Take five papers on one topic.
+For each paper, identify:
+1. Main theme
+2. Method
+3. Year
+4. Important keyword
+Then group papers that have something in common.
+My theme groups:
+School of Computer Science, UPES | Page 17 of 40
+
+===== PAGE 67 =====
+Research Methodology in CS Worksheet – Unit III
+14. HANDS-ON LITERATURE MAPPINGFrom Papers to Clusters
+CLASSROOM ACTIVITY
+Topic: Cloud Computing
+Assume that you have five papers.
+Identify three recurring themes such as:
+•Cost efficiency
+•Scalability
+•Energy consumption
+Create your own thematic map below.
+Cloud
+Computing
+Theme 1
+Theme 2
+Theme 3
+Theme 1:
+Theme 2:
+Theme 3:
+THINK LIKE A RESEARCHER
+What research gap could become visible after mapping these papers?
+14.1 Best Practices for Literature Mapping
+•Start mapping early.
+•Combine manual notes with digital tools.
+•Update the map periodically.
+•Focus on influential work as well as recent work.
+•Map ideas and relationships, not only keywords.
+School of Computer Science, UPES | Page 18 of 40
+
+===== PAGE 68 =====
+Research Methodology in CS Worksheet – Unit III
+15. REFERENCES AND CITATIONSAcademic Credibility
+15.1 Why References Matter
+References serve several purposes:
+•acknowledge original ideas,
+•allow readers to verify claims,
+•help avoid plagiarism,
+•establish scholarly context,
+•strengthen the credibility of research.
+15.2 Citation Styles
+Style Typical Approach
+IEEE Numbered citations such as [1], [2]
+APA Author–year such as (Smith, 2020)
+ACM Author–year or numeric depending on venue
+Chicago / Harvard Commonly used outside core CS venues
+LEARN & REMEMBER
+In computer science, IEEE and ACM styles are particularly common. Always check the specific journal,
+conference or university guidelines before formatting references.
+15.3 Citation in Writing
+Examples:
+Direct citation:
+According to Smith [1], deep learning has applications in NLP.
+Indirect citation:
+Deep learning has been widely applied to natural language processing [1].
+Multiple citations:
+Several studies have investigated this problem [1]–[4].
+COMMON TRAP
+Do not mix IEEE, APA and other citation formats randomly within the same document.
+School of Computer Science, UPES | Page 19 of 40
+
+===== PAGE 69 =====
+Research Methodology in CS Worksheet – Unit III
+16. REFERENCE MANAGEMENTManage Literature Systematically
+16.1 Reference Management Tools
+Tool Typical Use
+Mendeley Reference management and PDF annotation
+Zotero Browser-based collection and citation management
+EndNote Academic reference management
+BibTeX Reference management for LaTeX documents
+RefWorks / Citavi Institutional reference management
+16.2 Why Use Reference Managers?
+Manual reference management can cause:
+•missing references,
+•incorrect author names,
+•inconsistent formatting,
+•forgotten citations,
+•duplicate entries.
+Reference managers help organize papers and generate citations according to a selected style.
+PRACTICE ZONE
+Reference Formatting Activity
+Given:
+Smith, J. (2021). “AI for Cybersecurity.” Journal of Computer Science, 45(3), 120–135.
+Write the reference in IEEE style.
+Now write it in APA style.
+School of Computer Science, UPES | Page 20 of 40
+
+===== PAGE 70 =====
+Research Methodology in CS Worksheet – Unit III
+17. CITATION ETHICSCite Fairly and Accurately
+17.1 Good Citation Practices
+A researcher should:
+•cite the original source where possible,
+•cite relevant work,
+•include classical work when important,
+•include recent work when appropriate,
+•acknowledge contributions fairly,
+•maintain consistent formatting.
+17.2 Citation Padding
+Citation padding occurs when irrelevant references are added simply to increase the number of citations.
+THINK LIKE A RESEARCHER
+Consider:
+“Our algorithm is efficient [1–12].”
+However, only two of the twelve papers actually discuss algorithmic efficiency.
+Is this good citation practice?
+Explain.
+17.3 Common Reference Mistakes
+•Mixing citation styles.
+•Missing references in the bibliography.
+•Listing references that are never cited.
+•Incorrect author/year/page information.
+•Over-citing trivial facts.
+•Citing a secondary source instead of the original source.
+School of Computer Science, UPES | Page 21 of 40
+
+===== PAGE 71 =====
+Research Methodology in CS Worksheet – Unit III
+18. PLAGIARISMAcademic Integrity
+18.1 What is Plagiarism?
+Plagiarism means using another person’s words, ideas or work without appropriate acknowledgment.
+It can involve:
+•written text,
+•figures,
+•diagrams,
+•computer code,
+•datasets,
+•ideas,
+•previously published work.
+Plagiarism may be intentional or accidental.
+18.2 Types of Plagiarism
+Type Description
+Direct / Verbatim Copying text word-for-word
+Mosaic Combining copied phrases with your own wording
+Self-Plagiarism Reusing previous work without proper acknowledgment
+Paraphrasing Plagiarism Changing words while retaining the original structure
+Accidental Plagiarism Incorrect or missing citation
+18.3 Plagiarism in Computer Science
+Examples include:
+•copying code from GitHub without credit,
+•using another researcher’s figure without citation,
+•submitting the same project for two courses,
+•reusing a previous publication as a new work without proper disclosure.
+COMMON TRAP
+Plagiarism is not limited to copied paragraphs. Figures, code, data and ideas may also require acknowl-
+edgment.
+School of Computer Science, UPES | Page 22 of 40
+
+===== PAGE 72 =====
+Research Methodology in CS Worksheet – Unit III
+19. PLAGIARISM DETECTIONSimilarity is a Warning Signal
+19.1 Common Detection Tools
+Examples include:
+•Turnitin
+•iThenticate
+•PlagScan
+•Grammarly similarity features
+•MOSS for source-code similarity
+•JPlag for source-code comparison
+LEARN & REMEMBER
+A similarity report is a tool for investigation. A similarity percentage should not be interpreted without
+examining what material has been matched and why.
+19.2 Identify the Problem
+Classify each situation:
+1. A student copies a paragraph without citation.
+2. A student uses a figure from a paper and cites the paper.
+3. A student copies GitHub code and gives no attribution.
+4. A student paraphrases an idea and cites the original source.
+5. A student submits an old report as a new assignment without disclosure.
+No. Ethical / Unethical? Reason
+1
+2
+3
+4
+5
+School of Computer Science, UPES | Page 23 of 40
+
+===== PAGE 73 =====
+Research Methodology in CS Worksheet – Unit III
+20. PARAPHRASINGReword + Restructure + Cite
+20.1 What is Paraphrasing?
+Paraphrasing means expressing another author’s idea in your own words and sentence structure while
+preserving the original meaning.
+Good paraphrasing requires:
+1. understanding the source,
+2. writing the idea independently,
+3. changing the structure,
+4. preserving the meaning,
+5. citing the source.
+20.2 Example
+Original:
+“Machine learning models require large labeled datasets for training.”
+Poor paraphrasing:
+“Machine learning systems need big labeled datasets for training.”
+The sentence structure remains almost the same.
+Better paraphrasing:
+Effective machine-learning approaches often depend on extensive annotated datasets during
+model development [1].
+COMMON TRAP
+Simply replacing words with synonyms is not sufficient. The idea must be understood and expressed
+independently.
+20.3 Practice
+Original:
+“Cloud computing improves scalability but raises security concerns.”
+Write your own version.
+Citation marker:
+School of Computer Science, UPES | Page 24 of 40
+
+===== PAGE 74 =====
+Research Methodology in CS Worksheet – Unit III
+21. ACADEMIC WRITING ETHICSOriginality and Honesty
+21.1 Ethical Academic Writing
+A researcher should:
+•cite original sources,
+•use quotation marks for direct quotations,
+•paraphrase rather than patch-copy,
+•acknowledge collaborators,
+•acknowledge prior work,
+•maintain originality.
+21.2 Patchwork Writing
+Patchwork writing occurs when a researcher takes sentences or phrases from multiple sources and joins
+them together with minor changes.
+Source A
+Sentence
+Source B
+Sentence
+Source C
+Sentence
+Patchwork
+Paragraph
+THINK LIKE A RESEARCHER
+Why is adding citations to every sentence not automatically enough to make patchwork writing accept-
+able?
+School of Computer Science, UPES | Page 25 of 40
+
+===== PAGE 75 =====
+Research Methodology in CS Worksheet – Unit III
+22. RESEARCH ETHICSResponsible Conduct of Research
+22.1 What is Research Ethics?
+Research ethics refers to principles that guide responsible conduct during research.
+It promotes:
+•honesty,
+•transparency,
+•fairness,
+•responsibility,
+•protection of participants,
+•reliability of the scientific record.
+In computer science, ethics can involve:
+•software,
+•algorithms,
+•datasets,
+•artificial intelligence,
+•human-computer interaction,
+•user studies.
+22.2 Core Ethical Principles
+Principle Meaning
+Honesty No fabrication, falsification or misrepresentation
+Objectivity Avoid inappropriate bias in research design and interpretation
+Integrity Follow professional and institutional guidelines
+Respect Protect participants and their information
+Accountability Take responsibility for research work and contributions
+School of Computer Science, UPES | Page 26 of 40
+
+===== PAGE 76 =====
+Research Methodology in CS Worksheet – Unit III
+23. ETHICAL ISSUES IN CS RESEARCHPeople, Data and Algorithms
+23.1 Major Ethical Areas
+Area Concern
+Human Subjects Consent, privacy and participant safety
+Data Handling Security, anonymization and lawful use
+Authorship Fair credit for genuine contributions
+Publication No duplicate publication or fake peer review
+AI Bias Avoid unjustified discrimination or harmful bias
+23.2 Fabrication and Falsification
+Fabricationmeans creating data or results that never existed.
+Falsificationmeans manipulating research materials, data, methods or results so that the research
+record is misrepresented.
+COMMON TRAP
+Changing experimental results simply to make an algorithm appear better is a serious ethical violation.
+PRACTICE ZONE
+A researcher obtains 82% accuracy but reports 94% accuracy in the paper because the higher value
+appears more impressive.
+Identify the ethical violation and explain why it is harmful.
+School of Computer Science, UPES | Page 27 of 40
+
+===== PAGE 77 =====
+Research Methodology in CS Worksheet – Unit III
+24. ETHICS IN DATA USAGEPrivacy and Responsible Data
+24.1 Responsible Data Practices
+When human or sensitive data is involved, researchers should consider:
+•informed consent,
+•privacy,
+•secure storage,
+•anonymization,
+•pseudonymization where appropriate,
+•lawful data collection,
+•transparency about data usage.
+24.2 Data Privacy Principles
+The source material highlights frameworks such as:
+•GDPR
+•HIPAA
+•Indian IT Act
+•Digital Personal Data Protection Act (DPDP Act)
+LEARN & REMEMBER
+A simple principle to remember:
+Collect only what is necessary, protect what you collect, and clearly explain how it will
+be used.
+24.3 Privacy Activity
+You are developing a mobile application to track student study habits.
+Possible data:
+•Name
+•Age
+•Study duration
+•Location
+•Device information
+•Academic performance
+School of Computer Science, UPES | Page 28 of 40
+
+===== PAGE 78 =====
+Research Methodology in CS Worksheet – Unit III
+PRACTICE ZONE
+Which data is actually necessary?
+How would you anonymize the data?
+How would you obtain informed consent?
+School of Computer Science, UPES | Page 29 of 40
+
+===== PAGE 79 =====
+Research Methodology in CS Worksheet – Unit III
+25. AUTHORSHIP ETHICSWho Should Be an Author?
+25.1 Responsible Authorship
+Authorship should reflect meaningful contributions to the research.
+Examples of significant contributions may include:
+•research design,
+•substantial experimentation,
+•methodology development,
+•data analysis,
+•substantial interpretation,
+•significant manuscript contribution.
+25.2 Unethical Authorship
+Gift authorship:
+Adding a person as an author despite little or no contribution.
+Ghost authorship:
+A significant contributor is not properly identified as an author.
+COMMON TRAP
+Being a supervisor, senior person or friend does not automatically justify authorship. Authorship should
+follow the contribution criteria and the relevant journal/conference policy.
+PRACTICE ZONE
+Four students work on a project:
+A Research design and data analysis
+B Software implementation
+C Presentation design only
+D Data collection and manuscript preparation
+Discuss which contributions could justify authorship.
+School of Computer Science, UPES | Page 30 of 40
+
+===== PAGE 80 =====
+Research Methodology in CS Worksheet – Unit III
+26. PUBLICATION ETHICSResponsible Scholarly Communication
+26.1 Common Ethical Violations
+Examples include:
+•plagiarism,
+•self-plagiarism,
+•fabrication,
+•falsification,
+•duplicate publication,
+•unjustified authorship,
+•fake peer review,
+•hiding important conflicts or limitations.
+26.2 Ethical Decision Activity
+For each situation, identify the main issue.
+Situation Issue
+1 The same manuscript is submitted simultaneously to two conferences.
+2 A friend is added as an author without contribution.
+3 A negative experimental result is hidden.
+4 A dataset is used without checking its provenance.
+5 A collaborator’s major contribution is not acknowledged.
+School of Computer Science, UPES | Page 31 of 40
+
+===== PAGE 81 =====
+Research Methodology in CS Worksheet – Unit III
+27. RESEARCH ETHICS CASE STUDIESLearning from Real Situations
+27.1 Case Study – Facebook Emotion Study
+The source material discusses a large-scale Facebook experiment in which users’ news feeds were modified
+to study emotional effects.
+The case raises questions about:
+•informed consent,
+•participant autonomy,
+•privacy,
+•ethical approval,
+•large-scale experimentation.
+THINK LIKE A RESEARCHER
+Discuss
+If an experiment can affect a person’s behaviour or emotional state, what responsibilities should re-
+searchers have before conducting it?
+27.2 Case Study – Data Privacy
+The source material discusses cases where large-scale user data created privacy risks.
+A key lesson is:
+Publicly accessible or apparently anonymized data can still create privacy risks.
+PRACTICE ZONE
+A researcher downloads a public dataset containing detailed user activity.
+Before using it, what should the researcher check?
+1. Source and provenance
+2. Presence of personal identifiers
+3. Terms of use
+4. Privacy risks
+5. Permission/consent where relevant
+Additional consideration:
+School of Computer Science, UPES | Page 32 of 40
+
+===== PAGE 82 =====
+Research Methodology in CS Worksheet – Unit III
+28. IRB AND ETHICAL APPROVALProtecting Human Participants
+28.1 What is IRB?
+IRB stands for:
+Institutional Review Board
+It may also be referred to as an ethics committee.
+Its role includes reviewing research involving human participants to ensure that:
+•participants are treated appropriately,
+•risks are considered,
+•consent is handled properly,
+•privacy is protected,
+•ethical requirements are satisfied.
+28.2 When May Approval Be Needed?
+Examples include:
+•surveys involving people,
+•interviews,
+•experiments involving participants,
+•HCI studies,
+•software usability studies,
+•studies involving sensitive datasets,
+•health, financial or biometric data,
+•identifiable personal information.
+COMMON TRAP
+Do not assume that a project is “only computer science” and therefore automatically exempt from ethical
+review. Human participants and identifiable or sensitive data can introduce ethical requirements.
+School of Computer Science, UPES | Page 33 of 40
+
+===== PAGE 83 =====
+Research Methodology in CS Worksheet – Unit III
+29. PRINCIPLES OF ETHICAL APPROVALIRB and Participants
+29.1 Informed Consent
+Participants should understand relevant information about the study, including its purpose, procedures
+and relevant risks or benefits.
+29.2 Confidentiality
+Personal information should be protected and not unnecessarily disclosed.
+29.3 Minimal Risk
+Researchers should minimize avoidable harm, discomfort or risk.
+29.4 Right to Withdraw
+Where applicable, participants should be able to leave a study without inappropriate consequences.
+29.5 Fair Selection
+Participant recruitment should be fair and should not create unjustified discrimination or exploitation.
+Informed
+Consent
+Privacy &
+Confidentiality
+Minimal
+Risk
+Ethical
+Research
+Right to
+Withdraw
+Fair
+Selection
+School of Computer Science, UPES | Page 34 of 40
+
+===== PAGE 84 =====
+Research Methodology in CS Worksheet – Unit III
+30. INTEGRATED RESEARCH ACTIVITYFrom Search to Ethical Research
+CLASSROOM ACTIVITY
+Choose one research topic from your discipline.
+You will now move through the complete Unit III workflow.
+Step 1 – Define the Research Problem
+Topic:
+Research Question:
+Step 2 – Develop Keywords
+Primary keyword
+Synonym
+Related keyword
+Technical term
+Step 3 – Create Search String
+Step 4 – Select One Important Paper
+Title
+Author(s)
+Year
+Database
+Method
+Main Finding
+Limitation
+School of Computer Science, UPES | Page 35 of 40
+
+===== PAGE 85 =====
+Research Methodology in CS Worksheet – Unit III
+31. INTEGRATED PAPER ANALYSISAnalyse, Compare and Identify
+Step 5 – Compare Two Papers
+Paper 1 Paper 2
+Research Problem
+Method
+Dataset
+Main Result
+Strength
+Limitation
+Step 6 – Synthesis
+Complete:
+Across the two papers, the common finding is:
+The major difference is:
+A possible research gap is:
+Step 7 – Citation Chaining
+One earlier paper I would investigate:
+One newer paper that cites the selected work:
+School of Computer Science, UPES | Page 36 of 40
+
+===== PAGE 86 =====
+Research Methodology in CS Worksheet – Unit III
+32. ETHICAL RESEARCH DESIGNApply Research Ethics
+Continue with the same research topic.
+32.1 Does Your Research Involve People?
+Human participants involved?□Yes□No
+Identifiable data involved?□Yes□No
+Sensitive data involved?□Yes□No
+Survey/interview involved?□Yes□No
+User study involved?□Yes□No
+32.2 Ethical Safeguards
+If participants or sensitive data are involved, specify:
+Consent procedure:
+Data protection method:
+Anonymization method:
+Who will have access to the data?
+Potential ethical risk:
+32.3 Authorship Plan
+Who may contribute significantly to the research?
+Research Design
+Implementation
+Data Collection
+Data Analysis
+Writing
+Supervision / Guid-
+ance
+School of Computer Science, UPES | Page 37 of 40
+
+===== PAGE 87 =====
+Research Methodology in CS Worksheet – Unit III
+33. UNIT III RESEARCH CHALLENGESearch→Analyse→Map→Research Ethically
+CLASSROOM ACTIVITY
+Scenario
+You are planning a research project on:
+“AI-Based Smart Healthcare Monitoring”
+Prepare a mini research-search plan.
+A. Literature Search
+Three databases I would search:
+1.
+2.
+3.
+Four keywords:
+1.
+2.
+3.
+4.
+Boolean search string:
+B. Literature Analysis
+What methods would you compare?
+What datasets would you investigate?
+What limitations would you look for?
+C. Literature Mapping
+Which mapping would be useful?
+□Thematic□Chronological□Methodological
+□Citation□Conceptual
+Why?
+School of Computer Science, UPES | Page 38 of 40
+
+===== PAGE 88 =====
+Research Methodology in CS Worksheet – Unit III
+34. ETHICS APPLICATIONComplete the Researcher Mindset
+Continue with the healthcare research scenario.
+34.1 Ethical Risks
+Identify at least four:
+1.
+2.
+3.
+4.
+34.2 Data Protection
+What personal information should be avoided if it is not necessary?
+How will sensitive information be protected?
+34.3 Participant Consent
+Write a short statement explaining what a participant should know before joining the study.
+34.4 Research Integrity
+Complete the statements:
+1. I will not fabricate
+.
+1. I will not falsify
+.
+1. I will acknowledge
+.
+1. I will protect
+.
+1. I will report limitations
+.
+School of Computer Science, UPES | Page 39 of 40
+
+===== PAGE 89 =====
+Research Methodology in CS Worksheet – Unit III
+LEARN & REMEMBER
+A strong researcher searches systematically, analyses critically, maps knowledge, cites honestly, protects
+data and conducts research responsibly.A strong researcher does not only find information.
+A strong researcher searches systematically, analyses critically, maps knowledge, cites
+honestly, protects data and conducts research responsibly.
+School of Computer Science, UPES | Page 40 of 40
