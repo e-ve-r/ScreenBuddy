@@ -1,5 +1,16 @@
 .venv/
+.env
+.env.*
+.DS_Store
+
 __pycache__/
 *.pyc
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+coverage.xml
+.coverage
+
+tmp/
 artifacts/
 .computer_use_gui.json
